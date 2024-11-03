@@ -6,10 +6,5 @@ Esse projeto realiza uma análise exploratória em um conjunto de dados de jogos
     Ano com o maior número de lançamentos.
     Número de jogos com suporte ao idioma português.
 
-Estrutura do Código
-
-    -Data = a base de dados principal e do teste;
-    -Src = com os codigos das perguntas buscando as informações la base de dados;
-    -Teste = o teste usara as mesmas perguntas nos 20 primeiros jogos da base.
 Executando o Projeto
 Para rodar o projeto, por favor, execute o arquivo main.py.
